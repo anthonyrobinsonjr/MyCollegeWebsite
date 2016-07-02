@@ -1,4 +1,4 @@
-myCollegeWebsite
+#myCollegeWebsite
 This is a college website project for a HTML/CSS course on Udemy. Using HTML and CSS, the goal of this project was to create a responsive web design for all devices.
 
 Table of contents
